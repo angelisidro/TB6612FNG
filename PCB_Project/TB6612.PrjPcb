@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UEUGPLEL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TB6612\Design Rule Check - TB6612.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

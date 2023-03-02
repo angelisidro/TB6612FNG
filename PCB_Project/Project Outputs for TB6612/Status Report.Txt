@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TB6612.PrjPcb]
+   Generated File[TB6612.TXT]
+   Generated File[TB6612.LDP]
+   Generated File[TB6612.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:49:57 On 20/02/2023

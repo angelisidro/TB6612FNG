@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=VM Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=VM Pin=D1-1
+Removed Pin From Net: NetName=VM Pin=Q1-2
+Removed Pin From Net: NetName=VM Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Member From Class: ClassName=SHC_TB6612FNG Member=C4
+Removed Member From Class: ClassName=SHC_TB6612FNG Member=D1
+Removed Member From Class: ClassName=SHC_TB6612FNG Member=Q1
+Removed Member From Class: ClassName=SHC_TB6612FNG Member=R1
+Removed Member From Class: ClassName=SHC_TB6612FNG Member=R2
+Change Component Footprint: Designator=C1 Old Footprint=FP-C0805C-DN-IPC_B New Footprint=PNSC-EEE1CA100SR_M
+Change Component Comment : Designator=C1 Old Comment=C0805C474K3RACTU New Comment=EEE-1CA100SR
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=EC587CEA-6144-4779-84D3-345B03D91887 New ItemGUID=899AC33D-CC73-499A-88AC-4BE88F595EA7 Old RevisionGUID=3588026D-FFB5-4105-BA0C-EC279BEE8EF9 New RevisionGUID=0555F546-68BF-4953-B6CC-BDF4DF6E1E7C
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-C0805C-DN-IPC_B"; UniqueID = "\ELFONLXY" ("\ELFONLXY")
+Change component parameters (AddParameter): Name = "AC Ripple Current"; Value = "28mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "AE Capacitor Case"; Value = "RadialCan-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance ±"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitor Case Style"; Value = "RadialCan-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitor Mounting"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitor Terminals"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/19458/1355487-19458346.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "04/2005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "External Depth"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "External Length / Height"; Value = "5.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "External Width"; Value = "4.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Cross-section Width"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Length"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life Time @ Temperature"; Value = "2000hours@85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temperature"; Value = "2000hours@85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Life Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating life Time"; Value = "2000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Lifetime"; Value = "2000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-40°Cto+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 4.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "EEE1CA100SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Factor"; Value = "0.16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Factor Frequency"; Value = "120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "PANASONIC-SSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current AC"; Value = "28mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current Frequency"; Value = "120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "NoSVHC(16-Dec-2013)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tape Width"; Value = "12mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance +"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance -"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating V DC"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VM Pin=P1-1
